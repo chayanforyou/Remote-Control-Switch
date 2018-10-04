@@ -57,3 +57,30 @@ The microcontroller has eeprom which is used save the changed value after every 
 The remote control has a total 21 keys, and the keys “U/SD to 9” are used to control fan speed where "U/SD" is lower and "9" is higher speed, “Mute” will be turn off the fan, "EQ" will be toggle light 1, "VOL+" will be toggle light 2. The "POWER" key is used to turn on or off the device. The "PLAY/PAUSE" and "NEXT" keys can also used to decrease/increase fan speed respectively.
 
 The LED is lit while it accepts the commands from the remote control. And it remains turns on when device is off.
+
+## Contributing
+Want to contribute? You are welcome! 
+Note that all pull request should go to `dev` branch.
+
+Developed By
+------------
+
+* Chayan Mistry - <chayan@cruxlab.xyz>
+
+
+License
+--------
+
+    Copyright 2018 Chayan Mistry.
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
