@@ -41,4 +41,19 @@ The power supply for the circuit is derived from the a 230V, 50Hz ac line using 
 
 The zero cross is detected by R2 which is connected to microcontroller input pin (GP4) and ac line. The ESD protection diodes at input pin (GP4) allows this connection without damage. The voltage is clamped between Vdd + 0.7 and Vss – 0.7 Volts for positive and negative half cycles respectively. The “interrupt on change” at this pin is enabled for generating an interrupt at each zero cross. The triac is triggered with different phase angle (phase angle control) to make different fan speeds.
 
-The microcontroller has eeprom which is used save the changed value after every key pressed, so at power up, the microcontroller remembers the last fan speed. While starts the fan, the microcontroller completely turn on the triac for two seconds, and it helps to gain the speed rapidly, then it is switched to the selected speed.
+The microcontroller has eeprom which is used save the changed value after every key pressed, so at power up, the microcontroller remembers the last fan speed and light state. While starts the fan, the microcontroller completely turn on the triac for two seconds, and it helps to gain the fan speed rapidly, then it is switched to the selected speed.
+
+<p align="center">
+  <img src="https://github.com/chayanforyou/Remote-Controlled-Regulator/blob/master/image/remote_normal.jpg?raw=true"/>
+</p>
+<p align="center" >
+  <b>
+    Figure 4. Remote controller (actual size 85 x 39 x 6 mm)
+  </b>
+</p>
+
+## Operational Use
+
+The remote control has a total 21 keys, and the keys “U/SD to 9” are used to control fan speed where "U/SD" is lower and "9" is higher speed, “Mute” will be turn off the fan, "EQ" will be toggle light 1, "VOL+" will be toggle light 2. The "POWER" key is used to turn on or off the device. The "PLAY/PAUSE" and "NEXT" keys can also used to decrease/increase fan speed respectively.
+
+The LED is lit while it accepts the commands from the remote control. And it remains turns on when device is off.
