@@ -44,7 +44,7 @@ The zero cross is detected by R2 which is connected to microcontroller input pin
 The microcontroller has eeprom which is used save the changed value after every key pressed, so at power up, the microcontroller remembers the last fan speed and light state. While starts the fan, the microcontroller completely turn on the triac for two seconds, and it helps to gain the fan speed rapidly, then it is switched to the selected speed.
 
 <p align="center">
-  <img width="200px" height="400px" src="https://github.com/chayanforyou/Remote-Controlled-Regulator/blob/master/image/remote_normal.jpg?raw=true"/>
+  <img width="220px" height="400px" src="https://github.com/chayanforyou/Remote-Controlled-Regulator/blob/master/image/remote_normal.jpg?raw=true"/>
 </p>
 <p align="center" >
   <b>
