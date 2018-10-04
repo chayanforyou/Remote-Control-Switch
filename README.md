@@ -68,8 +68,8 @@ Note that all pull request should go to `dev` branch.
 
 ### Thanks to
 
-* [Extreme Electronics](http://extremeelectronics.co.in/avr-projects/avr-project-remote-controlled-fan-regulator/)
 * [Hamradio](http://www.hamradio.in/circuits/fan_regulator.php)
+* [Extreme Electronics](http://extremeelectronics.co.in/avr-projects/avr-project-remote-controlled-fan-regulator/)
 
 ## License
 
