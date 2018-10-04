@@ -62,14 +62,16 @@ The LED is lit while it accepts the commands from the remote control. And it rem
 Want to contribute? You are welcome! 
 Note that all pull request should go to `dev` branch.
 
-Developed By
-------------
+## Developed By
 
 * Chayan Mistry - <chayan@cruxlab.xyz>
 
+### Thanks to
 
-License
---------
+[Extreme Electronics](http://extremeelectronics.co.in/avr-projects/avr-project-remote-controlled-fan-regulator/)
+[Hamradio](http://www.hamradio.in/circuits/fan_regulator.php)
+
+## License
 
     Copyright 2018 Chayan Mistry.
 
