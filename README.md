@@ -66,8 +66,8 @@ The LED is lit while it accepts the commands from the remote control. And it rem
 | 02 | 230V/1A | F1 |
 | 03 | 105J/400V | C1 |
 | 04 | 1000uF/16V | C2 |
-| 05 | 0.1uF Ceramic | C3, C4 |
-| 06 | 0.01uF Polyester Film | C5-C7 |
+| 05 | 104 Ceramic | C3, C4 |
+| 06 | 103J Polyester Film | C5-C7 |
 | 07 | 5.1V | ZD1, ZD2 |
 | 08 | 1N4007 | D1 |
 | 09 | 1M Ohm | R1 |
