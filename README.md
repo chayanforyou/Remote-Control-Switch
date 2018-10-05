@@ -54,7 +54,7 @@ The microcontroller has eeprom which is used save the changed value after every 
 
 ## Operational Use
 
-The remote control has a total 21 keys, and the keys “U/SD to 9” are used to control fan speed where "U/SD" is lower and "9" is higher speed, “Mute” will be turn off the fan, "EQ" will be toggle light 1, "VOL+" will be toggle light 2. The "POWER" key is used to turn on or off the device. The "PLAY/PAUSE" and "NEXT" keys can also used to decrease/increase fan speed respectively.
+The remote control has a total 21 keys, and the keys “0 to 9” are used to control fan speed where "0" is lower and "9" is higher speed, “Mute” will be turn off the fan, "EQ" will be toggle light 1, "VOL+" will be toggle light 2. The "POWER" key is used to turn on or off the device. The "PLAY/PAUSE" and "NEXT" keys can also used to decrease/increase fan speed respectively.
 
 The LED is lit while it accepts the commands from the remote control. And it remains turn on when device is off.
 
@@ -88,11 +88,22 @@ The LED is lit while it accepts the commands from the remote control. And it rem
 </p>
 <p align="center" >
   <b>
-    Figure 5. The Circuit diagram. The fan and lights are connected with FAN, L1 and L2.
+    Figure 5. The circuit diagram. The fan and lights are connected with FAN, L1 and L2.
   </b>
 </p>
 
 #### Since there is no transformer for power-line isolation, the user must be very careful and assess the risks from electric shock hazards. The author is not responsible for any damages arising from any use of this circuit.
+
+## PCB
+
+<p align="center">
+  <img width="601px" height="200px" src="https://github.com/chayanforyou/Remote-Controlled-Regulator/blob/master/image/pcb_layout.png?raw=true"/>
+</p>
+<p align="center" >
+  <b>
+    Figure 6. Remote control switch PCB with top silk and solder mask layer.
+  </b>
+</p>
 
 ## Contributing
 
