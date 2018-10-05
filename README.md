@@ -77,7 +77,11 @@ Note that all pull request should go to `dev` branch.
     Commercial use is totally prohibited.
 
 ![](https://github.com/chayanforyou/Remote-Controlled-Regulator/blob/master/image/license.png?raw=true)
-#### CC BY-NC-ND
+<p align="left" >
+  <b>
+    CC BY-NC-ND
+  </b>
+</p>
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
