@@ -27,7 +27,7 @@ PIC12F675 and few more components are used to make this project. BT136 is logic 
   </b>
 </p>
 
-The power supply for the circuit is derived from the a 230V, 50Hz ac line using a capacitor (C1) and a zener diodes (ZD1, ZD2). The 5.1V zener diode combined with the forward voltage drop of the rectifier diode produce an IC supply close to 5V. This arrangement is used to drawn a full wave current from the mains supply.
+The power supply for the circuit is derived from the a 220V, 50Hz ac line using a capacitor (C1) and a zener diodes (ZD1, ZD2). The 5.1V zener diode combined with the forward voltage drop of the rectifier diode produce an IC supply close to 5V. This arrangement is used to drawn a full wave current from the mains supply.
 
 
 <p align="center">
@@ -94,7 +94,7 @@ The LED is lit while it accepts the commands from the remote control. And it rem
 
 #### Since there is no transformer for power-line isolation, the user must be very careful and assess the risks from electric shock hazards. The author is not responsible for any damages arising from any use of this circuit.
 
-## PCB
+## PCB Layout
 
 <p align="center">
   <img width="601px" height="200px" src="https://github.com/chayanforyou/Remote-Controlled-Regulator/blob/master/image/pcb_layout.png?raw=true"/>
@@ -104,6 +104,10 @@ The LED is lit while it accepts the commands from the remote control. And it rem
     Figure 6. Remote control switch PCB with top silk and solder mask layer.
   </b>
 </p>
+
+The PCB is designed with Adobe Photoshop. The circuit, pcbs and code for programming PIC12F675 are available in this repository. Please take care not to erase the internal oscillator calibration constant, which is written to the last location program memory. The Microchip® Development Tools maintain all calibration bits to factory settings, or if you are using IC-Prog, it will ask you before erasing.
+
+**Note:** The circuit is tested on 220v 50Hz AC line and works perfectly.
 
 ## Contributing
 
