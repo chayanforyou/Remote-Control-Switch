@@ -60,25 +60,26 @@ The LED is lit while it accepts the commands from the remote control. And it rem
 
 ## Components List
 
-| No. | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Label |
+| No. | Name | Label |
 | --- | --- | --- |
-| 01 | PIC12F675 | U1 |
-| 02 | 230V/1A | F1 |
-| 03 | 105J/400V | C1 |
-| 04 | 1000uF/16V | C2 |
-| 05 | 104 Ceramic | C3, C4 |
-| 06 | 103J Polyester Film | C5-C7 |
-| 07 | 5.1V | ZD1, ZD2 |
-| 08 | 1N4007 | D1 |
-| 09 | 1M Ohm | R1 |
-| 10 | 10M Ohm | R2 |
-| 11 | 330 Ohm | R3 |
-| 12 | 10K Ohm | R4-R6 |
-| 13 | 1K Ohm | R7-R12 |
-| 14 | C1815 | Q1-Q3 |
-| 15 | BT136 | TR1-TR3 |
-| 16 | VS1838 | IR |
-| 17 | Any Color | LED |
+| 01 | PIC12F675 General purpose 8 bit MCU | U1 |
+| 02 | Fuse 230V/1A | F1 |
+| 03 | 105J/400V Capacitor | C1 |
+| 04 | 1000uF/16V Capacitor | C2 |
+| 05 | 104 Ceramic Capacitor | C3, C4 |
+| 06 | 103J Polyester Film Capacitor | C5-C7 |
+| 07 | 5.1V Zener Diode | ZD1, ZD2 |
+| 08 | 1N4007 Diode | D1 |
+| 09 | 1M Ohm Resistor | R1 |
+| 10 | 10M Ohm Resistor | R2 |
+| 11 | 330 Ohm Resistor | R3 |
+| 12 | 10K Ohm Resistor | R4-R6 |
+| 13 | 1K Ohm Resistor | R7-R12 |
+| 14 | C1815 Transistor | Q1-Q3 |
+| 15 | Triac BT136 | TR1-TR3 |
+| 16 | VS1838 Universal IR Sensor| IR |
+| 17 | LED 3mm Any Colour | LED |
+| 18 | MP3 Remote Control (NEC) |   |
 
 ## Contributing
 
