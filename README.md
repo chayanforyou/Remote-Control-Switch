@@ -92,6 +92,8 @@ The LED is lit while it accepts the commands from the remote control. And it rem
   </b>
 </p>
 
+#### Since there is no transformer for power-line isolation, the user must be very careful and assess the risks from electric shock hazards. The author is not responsible for any damages arising from any use of this circuit.
+
 ## Contributing
 
 Want to contribute? You are welcome! 
