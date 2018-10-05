@@ -60,18 +60,18 @@ The LED is lit while it accepts the commands from the remote control. And it rem
 
 ## Components List
 
-| NO. | Name | Label |
-| --- | --- | --- |
-| 01 |  PIC12F675  | U1 |
+| No. | Name | Label |
+| --- | ---- | --- |
+| 01 | PIC12F675 | U1 |
 | 02 | 230V/1A | F1 |
 | 03 | 105J/400V | C1 |
 | 04 | 1000uF/16V | C2 |
-| 05 | 0.1uF Ceramic | C3-C4 |
+| 05 | 0.1uF Ceramic | C3, C4 |
 | 06 | 0.01uF Polyester Film | C5-C7 |
-| 06 | 230V/1A | F1 |
-| 06 | 230V/1A | F1 |
-| 06 | 230V/1A | F1 |
-| 06 | 230V/1A | F1 |
+| 07 | 5.1V | ZD1, ZD2 |
+| 08 | 1N4007 | D1 |
+| 09 | 1M Ohm | R1 |
+| 10 | 10M Ohm | R2 |
 
 ## Contributing
 
