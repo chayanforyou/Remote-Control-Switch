@@ -84,7 +84,7 @@ The LED is lit while it accepts the commands from the remote control. And it rem
 ## Schematic
 
 <p align="center">
-  <img width="203px" height="400px" src="https://github.com/chayanforyou/Remote-Controlled-Regulator/blob/master/image/schematic.png?raw=true"/>
+  <img src="https://github.com/chayanforyou/Remote-Controlled-Regulator/blob/master/image/schematic.png?raw=true"/>
 </p>
 <p align="center" >
   <b>
