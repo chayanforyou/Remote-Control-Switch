@@ -45,7 +45,6 @@ The microcontroller has eeprom which is used save the changed value after every 
 
 <p align="center">
   <img width="203px" height="400px" src="https://github.com/chayanforyou/Remote-Controlled-Regulator/blob/master/image/remote_normal.jpg?raw=true"/>
-    <img width="203px" height="400px" src="https://github.com/chayanforyou/Remote-Controlled-Regulator/blob/master/image/remote_stickered.jpg?raw=true"/>
 </p>
 <p align="center" >
   <b>
@@ -59,7 +58,23 @@ The remote control has a total 21 keys, and the keys “U/SD to 9” are used to
 
 The LED is lit while it accepts the commands from the remote control. And it remains turn on when device is off.
 
+## Components List
+
+| Name | Label |
+| --- | --- |
+| PIC12F675 | U1 |
+| 230V/1A | F1 |
+| 105J/400V | C1 |
+| 1000uF/16V | C2 |
+| 0.1uF Ceramic | C3-C4 |
+| 0.01uF Polyester Film | C5-C7 |
+| 230V/1A | F1 |
+| 230V/1A | F1 |
+| 230V/1A | F1 |
+| 230V/1A | F1 |
+
 ## Contributing
+
 Want to contribute? You are welcome! 
 Note that all pull request should go to `dev` branch.
 
