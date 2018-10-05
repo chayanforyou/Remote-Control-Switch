@@ -1,6 +1,6 @@
-# Remote Controlled Regulator
+# Remote Control Switch
 
-The circuit is an electronic fan regulator based on Interrupt and Timmer. You can control the whole functionality, change fan speed, turn on or off the lights etc. from your couch or bed using cheap NEC Format remote, usually supplied with small MP3 players. VS1838 universal IR receiver is used to receive the infrared signal transmitted by remote control.
+The circuit is an electronic switch. You can control the whole functionality, change fan speed, turn on or off the lights etc. from your couch or bed using cheap NEC Format remote, usually supplied with small MP3 players. VS1838 universal IR receiver is used to receive the infrared signal transmitted by remote control.
 
 ## Features
 
