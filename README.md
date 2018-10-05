@@ -73,11 +73,10 @@ Note that all pull request should go to `dev` branch.
 
 ## License
 
-    Anyone can use and share the code completly free, but keeping the original content unchanged
-    and with enough credit. Commercial use is totally prohibited.
+    Anyone can use and share the code completly free, but keeping the original content unchanged and with
+    enough credit. Commercial use is totally prohibited.
 
 ![](https://github.com/chayanforyou/Remote-Controlled-Regulator/blob/master/image/license.png?raw=true)
-#### CC BY-NC-ND
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
