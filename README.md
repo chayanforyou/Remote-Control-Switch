@@ -60,7 +60,7 @@ The LED is lit while it accepts the commands from the remote control. And it rem
 
 ## Components List
 
-| No. | Name | Label |
+| No. | Name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Label |
 | --- | ---- | --- |
 | 01 | PIC12F675 | U1 |
 | 02 | 230V/1A | F1 |
