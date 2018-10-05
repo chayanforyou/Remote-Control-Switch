@@ -45,6 +45,7 @@ The microcontroller has eeprom which is used save the changed value after every 
 
 <p align="center">
   <img width="203px" height="400px" src="https://github.com/chayanforyou/Remote-Controlled-Regulator/blob/master/image/remote_normal.jpg?raw=true"/>
+    <img width="203px" height="400px" src="https://github.com/chayanforyou/Remote-Controlled-Regulator/blob/master/image/remote_normal.jpg?raw=true"/>
 </p>
 <p align="center" >
   <b>
