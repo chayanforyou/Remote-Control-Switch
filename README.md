@@ -60,7 +60,7 @@ The LED is lit while it accepts the commands from the remote control. And it rem
 
 ## Components List
 
-| No. | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Label |
+| No. | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Label |
 | --- | --- | --- |
 | 01 | PIC12F675 | U1 |
 | 02 | 230V/1A | F1 |
@@ -72,6 +72,13 @@ The LED is lit while it accepts the commands from the remote control. And it rem
 | 08 | 1N4007 | D1 |
 | 09 | 1M Ohm | R1 |
 | 10 | 10M Ohm | R2 |
+| 11 | 330 Ohm | R3 |
+| 12 | 10K Ohm | R4-R6 |
+| 13 | 1K Ohm | R7-R12 |
+| 14 | C1815 | Q1-Q3 |
+| 15 | BT136 | TR1-TR3 |
+| 16 | VS1838 | IR |
+| 17 | Any Color | LED |
 
 ## Contributing
 
