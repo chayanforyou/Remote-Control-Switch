@@ -81,6 +81,17 @@ The LED is lit while it accepts the commands from the remote control. And it rem
 | 17 | LED 3mm Any Colour | LED |
 | 18 | MP3 Remote Control (NEC) |   |
 
+## Schematic
+
+<p align="center">
+  <img width="203px" height="400px" src="https://github.com/chayanforyou/Remote-Controlled-Regulator/blob/master/image/schematic.png?raw=true"/>
+</p>
+<p align="center" >
+  <b>
+    Figure 5. The Circuit diagram. The fan and lights are connected with FAN, L1 and L2.
+  </b>
+</p>
+
 ## Contributing
 
 Want to contribute? You are welcome! 
