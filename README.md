@@ -109,6 +109,15 @@ The PCB is designed with Adobe Photoshop. The circuit, pcbs and mikroC code for 
 
 **Note:** The circuit is tested on 220v 50Hz AC line and works perfectly.
 
+## Troubleshooting
+
+If the device does not respond to the remote control signals then look for the following.
+
+1. PIC12F675’s Fuse BIT is programmed to
+HIGH=0xC9 LOW=0xFF
+2. Remote Control is NEC Format Same Model Only (Chinese MP3 player remote works good, Other Remote does not work)
+3. IR sensor is of good quality and must be labeled VS1838 (other values won’t work).
+
 ## Contributing
 
 Want to contribute? You are welcome! 
