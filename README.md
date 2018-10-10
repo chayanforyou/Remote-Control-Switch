@@ -413,10 +413,9 @@ void main()
   } //end while
 } //end main
 ```
-![#f03c15](**Note:** This demonstration code is for learning purpose. It's not so efficient or optimized that you can use it commercially. But is ok for prototype and hobbyist project. If you need optimized code and different IR protocol version for different remote or want to use it commercially contact:- <chayan@cruxlab.xyz>)
 
 ```diff
- this will be highlighted in red
+- **Note:** This demonstration code is for learning purpose. It's not so efficient or optimized that you can use it commercially. But is ok for prototype and hobbyist project. If you need optimized code and different IR protocol version for different remote or want to use it commercially contact:- <chayan@cruxlab.xyz>
 ```
 
 ## Troubleshooting
