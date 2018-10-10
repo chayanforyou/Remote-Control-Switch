@@ -109,7 +109,7 @@ The PCB is designed with Adobe Photoshop. The circuit, pcbs and mikroC code for 
 
 **Note:** The circuit is tested on 220v 50Hz AC line and works perfectly.
 
-## C Code
+## mikroC Code
 
 ```c
 /*
@@ -416,7 +416,7 @@ void main()
 
 ## Important Note: 
 
-**This demonstration code is for learning purpose. It's not so efficient or optimized that you can use it commercially. But is ok for prototype and hobbyist project. If you need optimized code and different IR protocol version for different remote or want to use it commercially contact:- <chayan@cruxlab.xyz>
+**This demonstration code is for learning purpose. It's not so efficient or optimized that you can use it commercially. But is ok for prototype and hobbyist project. If you need optimized code and different IR protocol version for different remote or want to use it commercially contact:- <chayan@cruxlab.xyz>**
 
 ## Troubleshooting
 
