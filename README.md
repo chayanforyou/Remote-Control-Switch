@@ -285,7 +285,7 @@ void main()
   ANSEL        = 0x00;                      //Digital IOs only
   CMCON        = 0x07;                      //Disables comparators
   TRISIO       = 0x18;                      //GP3 & GP4 are input, others are output
-  OPTION_REG   = 0x85;                      //Disable pull-ups, Prescaler (1:64) is assigned to the timer TMR0
+  OPTION_REG   = 0x85;                      //Disable pull-ups, Prescaler (1:64) is assigned to timer0
   init();                                   //Update all variable value with EEPROM data
   IOC          = 0x10;                      //Enable Pin change interrupt on GPIO4
   INTCON       = 0xE8;                      //Enable global interrupt, timer0 interrupts
