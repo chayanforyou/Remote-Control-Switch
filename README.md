@@ -418,6 +418,13 @@ void main()
 - **Note:** This demonstration code is for learning purpose. It's not so efficient or optimized that you can use it commercially. But is ok for prototype and hobbyist project. If you need optimized code and different IR protocol version for different remote or want to use it commercially contact:- <chayan@cruxlab.xyz>
 ```
 
+<font color="green">
+  <b>
+  Note: 
+  </b>
+  This demonstration code is for learning purpose. It's not so efficient or optimized that you can use it commercially. But is ok for prototype and hobbyist project. If you need optimized code and different IR protocol version for different remote or want to use it commercially contact:- <chayan@cruxlab.xyz>
+</font>
+
 ## Troubleshooting
 
 If the device does not respond to the remote control signals then look for the following.
