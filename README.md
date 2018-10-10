@@ -417,9 +417,10 @@ void main()
 ```diff
 - **Note:** This demonstration code is for learning purpose. It's not so efficient or optimized that you can use it commercially. But is ok for prototype and hobbyist project. If you need optimized code and different IR protocol version for different remote or want to use it commercially contact:- <chayan@cruxlab.xyz>
 ```
-<span style=“color:red;”> text </span>
+Some Markdown text with <span style="color:blue">some *blue* text</span>.
 
-<p style="color:red">
+<p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
+
   <b>Note:</b>
   This demonstration code is for learning purpose. It's not so efficient or optimized that you can use it commercially. But is ok for prototype and hobbyist project. If you need optimized code and different IR protocol version for different remote or want to use it commercially contact:- chayan@cruxlab.xyz
 </p>
