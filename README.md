@@ -414,7 +414,9 @@ void main()
 } //end main
 ```
 
-> **Note:** This demonstration code is for learning purpose. It's not so efficient or optimized that you can use it commercially. But is ok for prototype and hobbyist project. If you need optimized code and different IR protocol version for different remote or want to use it commercially contact:- <chayan@cruxlab.xyz>
+## Important Note: 
+
+**This demonstration code is for learning purpose. It's not so efficient or optimized that you can use it commercially. But is ok for prototype and hobbyist project. If you need optimized code and different IR protocol version for different remote or want to use it commercially contact:- <chayan@cruxlab.xyz>
 
 ## Troubleshooting
 
@@ -441,8 +443,7 @@ Note that all pull request should go to `dev` branch.
 
 ## License
 
-    Anyone can use and share the code completly free, but keeping the original content unchanged and with
-    enough credit. Commercial use is totally prohibited.
+> Anyone can use and share the code completly free, but keeping the original content unchanged and with enough credit. Commercial use is totally prohibited.
 
 [![](https://github.com/chayanforyou/Remote-Controlled-Regulator/blob/master/image/license.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
