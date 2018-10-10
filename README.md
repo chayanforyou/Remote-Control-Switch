@@ -418,12 +418,10 @@ void main()
 - **Note:** This demonstration code is for learning purpose. It's not so efficient or optimized that you can use it commercially. But is ok for prototype and hobbyist project. If you need optimized code and different IR protocol version for different remote or want to use it commercially contact:- <chayan@cruxlab.xyz>
 ```
 
-<font color="red">
-  <b>
-  Note: 
-  </b>
+<p style="color:red">
+  <b>Note:</b>
   This demonstration code is for learning purpose. It's not so efficient or optimized that you can use it commercially. But is ok for prototype and hobbyist project. If you need optimized code and different IR protocol version for different remote or want to use it commercially contact:- chayan@cruxlab.xyz
-</font>
+</p>
 
 ## Troubleshooting
 
