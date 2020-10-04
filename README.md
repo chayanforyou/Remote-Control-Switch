@@ -48,13 +48,18 @@ The microcontroller has eeprom which is used save the changed value after every 
 </p>
 <p align="center" >
   <b>
-    Figure 4. Remote controller (actual size 85 x 39 x 6 mm)
+    Figure 4. Multi Remote controller (SONY & NEC Protocol)
   </b>
 </p>
 
 ## Operational Use
 
-The remote control has a total 21 keys, and the keys “0 to 9” are used to control fan speed where "0" is lower and "9" is higher speed, “Mute” will be turn off the fan, "EQ" will be toggle light 1, "VOL+" will be toggle light 2. The "POWER" key is used to turn on or off the device. The "PLAY/PAUSE" and "NEXT" keys can also used to decrease/increase fan speed respectively.
+**Sony Remote (SONY)**
+
+**Chaina Remote (NEC)**
+
+**MP3 Remote (NEC)**
+* The remote control has a total 21 keys, and the keys “0 to 9” are used to control fan speed where "0" is lower and "9" is higher speed, “Mute” will be turn off the fan, "EQ" will be toggle light 1, "VOL+" will be toggle light 2. The "POWER" key is used to turn on or off the device. The "PLAY/PAUSE" and "NEXT" keys can also used to decrease/increase fan speed respectively.
 
 The LED is lit while it accepts the commands from the remote control. And it remains turn on when device is off.
 
@@ -111,7 +116,7 @@ The PCB is designed with Adobe Photoshop. The circuit, pcbs and mikroC code for 
 
 ## Important Note
 
-*This demonstration code is for learning purpose. It's not so efficient or optimized that you can use it commercially. But is ok for prototype and hobbyist project. If you need optimized code and different IR protocol version for different remote or want to use it commercially contact:- <chayan@cruxlab.xyz>*
+*This demonstration code is for learning purpose. It's not so efficient or optimized that you can use it commercially. But is ok for prototype and hobbyist project. If you need optimized code and different IR protocol version for different remote or want to use it commercially contact:- <chayanforyou@yahoo.com>*
 
 ## Troubleshooting
 
