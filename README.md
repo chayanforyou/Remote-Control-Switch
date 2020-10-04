@@ -121,6 +121,17 @@ to factory settings, or if you are using IC-Prog, it will ask you before erasing
 
 **Note:** The circuit is tested on 220v 50Hz AC line and works perfectly.
 
+## Final Result
+
+<p align="center">
+  <img width="600px" height="198px" src="https://github.com/chayanforyou/Remote-Controlled-Regulator/blob/master/image/final_output.jpg?raw=true"/>
+</p>
+<p align="center" >
+  <b>
+    Figure 7. Assembling Everything As One Device
+  </b>
+</p>
+
 ## Important Note
 
 *This demonstration code is for learning purpose. It's not so efficient or optimized that you can use it commercially. But is ok for prototype and hobbyist project. If you need optimized code and different IR protocol version for different remote or want to use it commercially contact:- <chayanforyou@yahoo.com>*
