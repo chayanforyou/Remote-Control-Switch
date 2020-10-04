@@ -55,11 +55,13 @@ The microcontroller has eeprom which is used save the changed value after every 
 ## Operational Use
 
 **Sony Remote (SONY)**
+* In my case the remote control has a total 31 keys (can be more or less), the keys “1 to 0” are used to control fan speed where "1" is lower and "0" is higher speed, “Mute” will be turn off the fan, "PROGR(+)" will be toggle light 1, "PROGR(-)" will be toggle light 2. The "POWER" key is used to turn on or off the device. The "VOL(+)" and "VOL(-)" keys can also used to decrease/increase fan speed respectively.
 
 **Chaina Remote (NEC)**
+* The remote control has a total 28 keys, the keys “1 to 0” are used to control fan speed where "1" is lower and "0" is higher speed, “Mute” will be turn off the fan, "P(+)" will be toggle light 1, "P(-)" will be toggle light 2. The "POWER" key is used to turn on or off the device. The "V(+)" and "V(-)" keys can also used to decrease/increase fan speed respectively.
 
 **MP3 Remote (NEC)**
-* The remote control has a total 21 keys, and the keys “0 to 9” are used to control fan speed where "0" is lower and "9" is higher speed, “Mute” will be turn off the fan, "EQ" will be toggle light 1, "VOL+" will be toggle light 2. The "POWER" key is used to turn on or off the device. The "PLAY/PAUSE" and "NEXT" keys can also used to decrease/increase fan speed respectively.
+* The remote control has a total 21 keys, the keys “0 to 9” are used to control fan speed where "0" is lower and "9" is higher speed, “Mute” will be turn off the fan, "EQ" will be toggle light 1, "VOL+" will be toggle light 2. The "POWER" key is used to turn on or off the device. The "PLAY/PAUSE" and "NEXT" keys can also used to decrease/increase fan speed respectively.
 
 The LED is lit while it accepts the commands from the remote control. And it remains turn on when device is off.
 
