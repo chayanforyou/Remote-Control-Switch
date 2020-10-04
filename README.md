@@ -110,7 +110,9 @@ The LED is lit while it accepts the commands from the remote control. And it rem
   </b>
 </p>
 
+```
 The PCB is designed with Adobe Photoshop. The circuit, pcbs and mikroC code for programming PIC12F675 are available in this repository. Please take care not to erase the internal oscillator calibration constant, which is written to the last location program memory. The Microchip® Development Tools maintain all calibration bits to factory settings, or if you are using IC-Prog, it will ask you before erasing.
+```
 
 **Note:** The circuit is tested on 220v 50Hz AC line and works perfectly.
 
