@@ -1,6 +1,6 @@
 # Remote Control Switch
 
-The circuit is an electronic switch. You can control the whole functionality, change fan speed, turn on or off the lights etc. from your couch or bed using IR remote, Here, I programmed it for 3 types of remote -> 1. Sony TV remote | 2. Chaina TV remote | 3. Small MP3 players remote. VS1838 universal IR receiver is used to receive the infrared signal transmitted by remote control.
+The circuit is an electronic switch. You can control the whole functionality, change fan speed, turn on or off the lights etc. from your couch or bed using IR remote, Here, I programmed it for 3 types of remote -> 1. Sony TV remote | 2. China TV remote | 3. Small MP3 players remote. VS1838 universal IR receiver is used to receive the infrared signal transmitted by remote control.
 
 ## Features
 
@@ -57,7 +57,7 @@ The microcontroller has eeprom which is used save the changed value after every 
 **Sony Remote (SONY)**
 * In my case the remote control has a total 31 keys (can be more or less), the keys “1 to 0” are used to control fan speed where "1" is lower and "0" is higher speed, “Mute” will be turn off the fan, "PROGR(+)" will be toggle light 1, "PROGR(-)" will be toggle light 2. The "POWER" key is used to turn on or off the device. The "VOL(+)" and "VOL(-)" keys can also used to decrease/increase fan speed respectively.
 
-**Chaina Remote (NEC)**
+**China Remote (NEC)**
 * The remote control has a total 28 keys, the keys “1 to 0” are used to control fan speed where "1" is lower and "0" is higher speed, “Mute” will be turn off the fan, "P(+)" will be toggle light 1, "P(-)" will be toggle light 2. The "POWER" key is used to turn on or off the device. The "V(+)" and "V(-)" keys can also used to decrease/increase fan speed respectively.
 
 **MP3 Remote (NEC)**
