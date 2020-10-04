@@ -112,6 +112,17 @@ The LED is lit while it accepts the commands from the remote control. And it rem
   </b>
 </p>
 
+## Final Result
+
+<p align="center">
+  <img width="605px" height="200px" src="https://github.com/chayanforyou/Remote-Controlled-Regulator/blob/master/image/final_output.jpg?raw=true"/>
+</p>
+<p align="center" >
+  <b>
+    Figure 7. Assembling Everything As One Device
+  </b>
+</p>
+
 ```
 The PDF version of PCB is available. The Diagram, PCB and HEX for programming PIC12F675 are available
 in this repository. Please take care not to erase the internal oscillator calibration constant, which is
@@ -120,17 +131,6 @@ to factory settings, or if you are using IC-Prog, it will ask you before erasing
 ```
 
 **Note:** The circuit is tested on 220v 50Hz AC line and works perfectly.
-
-## Final Result
-
-<p align="center">
-  <img width="600px" height="198px" src="https://github.com/chayanforyou/Remote-Controlled-Regulator/blob/master/image/final_output.jpg?raw=true"/>
-</p>
-<p align="center" >
-  <b>
-    Figure 7. Assembling Everything As One Device
-  </b>
-</p>
 
 ## Important Note
 
