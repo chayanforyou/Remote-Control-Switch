@@ -1,6 +1,6 @@
 # Remote Control Switch
 
-The circuit is an electronic switch. You can control the whole functionality, change fan speed, turn on or off the lights etc. from your couch or bed using cheap NEC Format remote, usually supplied with small MP3 players. VS1838 universal IR receiver is used to receive the infrared signal transmitted by remote control.
+The circuit is an electronic switch. You can control the whole functionality, change fan speed, turn on or off the lights etc. from your couch or bed using IR remote, Here, I programmed it for 3 types of remote -> 1. Sony TV remote | 2. Chaina TV remote | 3. Small MP3 players remote. VS1838 universal IR receiver is used to receive the infrared signal transmitted by remote control.
 
 ## Features
 
@@ -44,7 +44,7 @@ The zero cross is detected by R2 which is connected to microcontroller input pin
 The microcontroller has eeprom which is used save the changed value after every key pressed, so at power up, the microcontroller remembers the last fan speed and light state. While starts the fan, the microcontroller completely turn on the triac for two seconds, and it helps to gain the fan speed rapidly, then it is switched to the selected speed.
 
 <p align="center">
-  <img width="203px" height="400px" src="https://github.com/chayanforyou/Remote-Controlled-Regulator/blob/master/image/remote_normal.jpg?raw=true"/>
+  <img width="203px" height="400px" src="https://github.com/chayanforyou/Remote-Controlled-Regulator/blob/master/image/remote_multi.jpg?raw=true"/>
 </p>
 <p align="center" >
   <b>
@@ -129,7 +129,7 @@ Note that all pull request should go to `dev` branch.
 
 ## Developed By
 
-* Chayan Mistry - <chayan@cruxlab.xyz>
+* Chayan Mistry - <chayanforyou@yahoo.com>
 
 ### Thanks to
 
