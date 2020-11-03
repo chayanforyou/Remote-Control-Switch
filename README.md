@@ -123,9 +123,9 @@ The LED is lit while it accepts the commands from the remote control. And it rem
   </b>
 </p>
 
-```
-```diff !The PDF version of PCB is available. The Diagram, PCB and HEX for programming PIC12F675 are available
-in this repository. ``` Please take care not to erase the internal oscillator calibration constant, which is
+```diff 
+!The PDF version of PCB is available. The Diagram, PCB and HEX for programming PIC12F675 are available
+in this repository. Please take care not to erase the internal oscillator calibration constant, which is
 written to the last location program memory. The Microchip® Development Tools maintain all calibration bits
 to factory settings, or if you are using IC-Prog, it will ask you before erasing.
 ```
