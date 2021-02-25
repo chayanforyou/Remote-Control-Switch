@@ -191,6 +191,7 @@ Note that all pull request should go to `dev` branch.
 
 * [Hamradio](http://www.hamradio.in/circuits/fan_regulator.php)
 * [Extreme Electronics](http://extremeelectronics.co.in/avr-projects/avr-project-remote-controlled-fan-regulator/)
+* [Tahmid's blog](https://tahmidmc.blogspot.com/2013/06/power-control-with-thyristor-phase.html)
 
 ## License
 
