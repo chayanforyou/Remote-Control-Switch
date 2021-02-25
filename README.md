@@ -71,13 +71,11 @@ Here, the gate is driven 5ms after the zero-crossing:
 <p align="center" >
   <b>
     Figure 4. Triac firing with 5 ms delay<br><br>
-    <p style="font-size:10vw">
-       Green: Input AC<br>
-       Yellow: AC Output after phase angle control<br>
-       Pink: Gate Drive signal<br>
-       Image source: Tahmid's blog
-    </p>
   </b>
+  Green: Input AC<br>
+  Yellow: AC Output after phase angle control<br>
+  Pink: Gate Drive signal<br>
+  Image source: Tahmid's blog
 </p>
 
 ## Operational Use
