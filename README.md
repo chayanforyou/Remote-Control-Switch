@@ -60,17 +60,34 @@ The zero-crossing detection circuit provides a pulse every time the AC signal cr
   </b>
 </p>
 
+The photo above clearly illustrates phase angle control: output voltage controlled by the gate drive signal applied to a thyristor.
+
+
+Here, the gate is driven 5ms after the zero-crossing:
+
+<p align="center">
+  <img src="https://github.com/chayanforyou/Remote-Controlled-Regulator/blob/master/image/5ms.png?raw=true"/>
+</p>
+<p align="center" >
+  <b>
+    Figure 4. Triac firing with 5 ms delay<br><br>
+    Green: Input AC<br>
+    Yellow: AC Output after phase angle control<br>
+    Pink: Gate Drive signal<br>
+    Image source: Tahmid's blog
+  </b>
+</p>
+
+## Operational Use
 
 <p align="center">
   <img width="600px" height="324px" src="https://github.com/chayanforyou/Remote-Controlled-Regulator/blob/master/image/remote_multi.jpg?raw=true"/>
 </p>
 <p align="center" >
   <b>
-    Figure 4. Multi Remote controller (SONY & NEC Protocol)
+    Figure 5. Multi Remote controller (SONY & NEC Protocol)
   </b>
 </p>
-
-## Operational Use
 
 **Sony Remote (SONY)**
 * In my case the remote control has a total 31 keys (can be more or less), the keys “1 to 0” are used to control fan speed where "1" is lower and "0" is higher speed, “Mute” will be turn off the fan, "PROGR(+)" will be toggle light 1, "PROGR(-)" will be toggle light 2. The "POWER" key is used to turn on or off the device. The "VOL(+)" and "VOL(-)" keys can also used to decrease/increase fan speed respectively.
