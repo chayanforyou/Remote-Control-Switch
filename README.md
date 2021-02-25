@@ -23,7 +23,7 @@ PIC12F675 and few more components are used to make this project. BT136 is logic 
 </p>
 <p align="center" >
   <b>
-    Figure 2. Definition of operating quadrants of triac (All polarities are referenced with MT1)
+    Figure 1. Definition of operating quadrants of triac (All polarities are referenced with MT1)
   </b>
 </p>
 
@@ -35,13 +35,31 @@ The power supply for the circuit is derived from the a 220V, 50Hz ac line using 
 </p>
 <p align="center" >
   <b>
-    Figure 3. Zero cross detection - PIC12F675 input structure
+    Figure 2. Zero cross detection - PIC12F675 input structure
   </b>
 </p>
 
 The zero cross is detected by R2 which is connected to microcontroller input pin (GP4) and ac line. The ESD protection diodes at input pin (GP4) allows this connection without damage. The voltage is clamped between Vdd + 0.7 and Vss – 0.7 Volts for positive and negative half cycles respectively. The “interrupt on change” at this pin is enabled for generating an interrupt at each zero cross. The triac is triggered with different phase angle (phase angle control) to make different fan speeds.
 
 The microcontroller has eeprom which is used save the changed value after every key pressed, so at power up, the microcontroller remembers the last fan speed and light state. While starts the fan, the microcontroller completely turn on the triac for two seconds, and it helps to gain the fan speed rapidly, then it is switched to the selected speed.
+
+
+## Theory of Operation
+
+The zero-crossing detection circuit provides a pulse every time the AC signal crosses zero volts. We detect this with the microcontroller and leverage interrupts to time the trigger circuit precisely in synchronization with these zero-crossing events. The method for power control is shown in the diagram below.
+
+<p align="center">
+  <img src="https://github.com/chayanforyou/Remote-Controlled-Regulator/blob/master/image/Regulated_rectifier.gif?raw=true"/>
+</p>
+<p align="center" >
+  <b>
+    Figure 3. Principle of Phase Angle Control
+    Top - Output Voltage
+    Bottom - Gate Drive Signal
+    Image source: Wikipedia (http://en.wikipedia.org/wiki/File:Regulated_rectifier.gif)
+  </b>
+</p>
+
 
 <p align="center">
   <img width="600px" height="324px" src="https://github.com/chayanforyou/Remote-Controlled-Regulator/blob/master/image/remote_multi.jpg?raw=true"/>
