@@ -53,9 +53,9 @@ The zero-crossing detection circuit provides a pulse every time the AC signal cr
 </p>
 <p align="center" >
   <b>
-    Figure 3. Principle of Phase Angle Control
-    Top - Output Voltage
-    Bottom - Gate Drive Signal
+    Figure 3. Principle of Phase Angle Control<br>
+    Top - Output Voltage<br>
+    Bottom - Gate Drive Signal<br>
     Image source: Wikipedia (http://en.wikipedia.org/wiki/File:Regulated_rectifier.gif)
   </b>
 </p>
