@@ -59,7 +59,7 @@ The zero-crossing detection circuit provides a pulse every time the AC signal cr
   Image source: Wikipedia (http://en.wikipedia.org/wiki/File:Regulated_rectifier.gif)
 </p>
 
-The photo above clearly illustrates phase angle control: output voltage controlled by the gate drive signal applied to a thyristor.
+The photo above clearly illustrates phase angle control: output voltage controlled by the gate drive signal applied to the thyristor – mostly triacs or SCRs.
 
 
 Here, the gate is driven 5ms after the zero-crossing:
@@ -69,7 +69,7 @@ Here, the gate is driven 5ms after the zero-crossing:
 </p>
 <p align="center" >
   <b>Figure 4. Triac firing with 5 ms delay</b>
-  <br>
+  <br><br>
   Green - Input AC<br>
   Yellow - AC Output after phase angle control<br>
   Pink - Gate Drive signal<br>
