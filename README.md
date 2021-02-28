@@ -69,7 +69,7 @@ Here, the gate is driven 5ms after the zero-crossing:
 </p>
 <p align="center" >
   <b>Figure 4. Triac firing with 5 ms delay</b>
-  <br><br>
+  <br>
   Green - Input AC<br>
   Yellow - AC Output after phase angle control<br>
   Pink - Gate Drive signal<br>
@@ -83,7 +83,7 @@ Here, the gate is driven 5ms after the zero-crossing:
 </p>
 <p align="center" >
   <b>
-    Figure 5. Multi Remote controller (SONY & NEC Protocol)
+    Figure 5. Support Multiple Remote (SONY & NEC Protocol)
   </b>
 </p>
 
