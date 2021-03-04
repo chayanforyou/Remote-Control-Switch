@@ -7,7 +7,7 @@ The circuit is an electronic switch. You can control the whole functionality, ch
 * Phase angle speed control for AC fans with (0-9) 10 steps.
 * Two lights can be turn on or off. 
 * The LED indicates the status of the IR receiver.
-* Remote control with NEC format cheap remote.
+* Remote control with SONY/NEC format cheap remote.
 * Microcontroller based design with mimimum external components.
 * Transformer-less power supply.
 * EEPROM options. So, whenever the Main power goes off, the MCU will check the EEPROM data which has the appliances status.
@@ -165,6 +165,11 @@ to factory settings, or if you are using IC-Prog, it will ask you before erasing
 
 **Note:** The circuit is tested on 220v 50Hz AC line and works perfectly.
 
+## Youtube Demo
+
+https://www.youtube.com/watch?v=d68Gi21D5kw
+
+
 ## Important Note
 
 *This demonstration code is for learning purpose. It's not so efficient or optimized that you can use it commercially. But is ok for prototype and hobbyist project. If you need optimized code and different IR protocol version for different remote or want to use it commercially contact:- <chayanforyou@yahoo.com>*
@@ -176,7 +181,7 @@ If the device does not respond to the remote control signals then look for the f
 1. PIC12F675’s Configuration Register is
    - CONFIG : $2007 : 0x3014
 2. Remote Control is NEC Format `Same Model` Only (Chinese MP3 player remote works good, Other Remote does not work)
-3. IR sensor is of good quality and must be labeled VS1838 (other values won’t work).
+3. IR sensor is of good quality and must be labeled VS1838 (for others model ensure correct pin config).
 
 ## Contributing
 
