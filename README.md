@@ -167,7 +167,7 @@ to factory settings, or if you are using IC-Prog, it will ask you before erasing
 
 ## Youtube Demo
 
-https://www.youtube.com/watch?v=d68Gi21D5kw
+Video Link: https://www.youtube.com/watch?v=d68Gi21D5kw
 
 
 ## Important Note
