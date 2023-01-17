@@ -2,6 +2,8 @@
 
 The circuit is an electronic switch. You can control the whole functionality, change fan speed, turn on or off the lights etc. from your couch or bed using IR remote, Here, I programmed it for 3 types of remote -> 1. Sony TV remote | 2. China TV remote | 3. Small MP3 players remote. VS1838 universal IR receiver is used to receive the infrared signal transmitted by remote control.
 
+Subscribe my [YouTube Channel](https://www.youtube.com/@chayanmistry?view_as=subscriber?sub_confirmation=1)
+
 ## Features
 
 * Phase angle speed control for AC fans with (0-9) 10 steps.
@@ -167,7 +169,8 @@ to factory settings, or if you are using IC-Prog, it will ask you before erasing
 
 ## YouTube Demo
 
-Video Link: https://www.youtube.com/watch?v=d68Gi21D5kw
+<!-- Video Link: https://www.youtube.com/watch?v=d68Gi21D5kw -->
+Video Link: https://www.youtube.com/@chayanmistry
 
 
 ## Important Note
