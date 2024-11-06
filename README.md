@@ -172,10 +172,8 @@ to factory settings, or if you are using IC-Prog, it will ask you before erasing
 <!-- Video Link: https://www.youtube.com/watch?v=d68Gi21D5kw -->
 Video Link: https://www.youtube.com/@chayanmistry
 
-
-## Important Note
-
-*This demonstration code is for learning purpose. It's not so efficient or optimized that you can use it commercially. But is ok for prototype and hobbyist project. If you need optimized code and different IR protocol version for different remote or want to use it commercially contact:- <chayanforyou@yahoo.com>*
+## About the Source code
+I didn't included the source code, but only the pre-compiled HEXs for a simple reason: many of project based on PIC® microcontrollers I released for free in the past became commercial products without my authotization, without asking, without asking me if I wanted to partecipate, without giving me a candy and this is very sad to me since I spend lot of time and money. If you want to use it commercially contact:- <chayanforyou@yahoo.com>
 
 ## Troubleshooting
 
